@@ -18,6 +18,11 @@
 
 ---
 
+### 🎉 **Limited-Time Discount**  
+This exclusive offer is available for the **first 100 customers only!** After that, the price will shift to **$2 per battery**.  
+
+---
+
 ### 💬 **How It Works:**  
 1. **Send your DeNet referral link.**  
 2. **Make a crypto payment** based on your desired package.  
