@@ -4,6 +4,10 @@
     </a>
 </p>
 
+<p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=TheTeamAlexa.DeNet-Storage-Unlimited-Batteries" alt="Page Views">
+</p>
+
 # 🚨 Exclusive Offer on DeNet Storage & Watcher Node Batteries! 🚨  
 
 ### 🎯 **Market Prices (as shown in the app):**  
@@ -60,5 +64,16 @@ Let’s build trust, save together, and grow!
 <p align="center">
     <a href="https://t.me/Jankari_Ki_Duniya">
         <img src="https://img.shields.io/badge/Buy%20Now-Telegram-blue?style=for-the-badge">
+    </a>
+</p>
+
+---
+
+### ☕ **Support Me**  
+If you appreciate this offer, consider buying me a coffee to support my work:  
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/theteamalexa">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge">
     </a>
 </p>
