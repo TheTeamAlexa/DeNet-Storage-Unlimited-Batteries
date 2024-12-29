@@ -77,3 +77,7 @@ If you appreciate this offer, consider buying me a coffee to support my work:
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge">
     </a>
 </p>
+
+## 📊 Views Counter
+
+![Views](https://profile-counter.glitch.me/DeNet-Storage-Unlimited-Batteries/count.svg)
